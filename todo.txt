@@ -1,1 +1,5 @@
 Exploring what is nodejs
+Bloking and non-Bloking I/O
+importing files and npm modules
+getting input from user
+argument parsing with yargs
