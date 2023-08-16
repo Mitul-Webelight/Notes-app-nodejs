@@ -1,4 +1,0 @@
-Storing data with JSON
-add, remove, list and read notes
-ES6 arrow functions and refactoring arrow functions
-Debugging notes app and complete Notes-app
